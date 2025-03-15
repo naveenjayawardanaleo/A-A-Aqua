@@ -1,0 +1,50 @@
+[06-Jan-2020 11:50:28 Asia/Colombo] PHP Parse error:  syntax error, unexpected end of file in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/views/index.php on line 1669
+[06-Jan-2020 14:58:47 Asia/Colombo] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/views/index.php on line 1725
+[08-Jan-2020 15:25:37 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:25:41 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:25:42 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:25:44 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:25:48 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:25:49 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:10 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:12 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:18 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:20 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:22 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:23 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:32 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:40 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:26:42 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:27:04 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:27:37 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[08-Jan-2020 15:27:40 Asia/Colombo] PHP Fatal error:  Call to undefined method Banner_model::get_all_flash_sale() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Home.php on line 47
+[09-Jan-2020 10:59:00 Asia/Colombo] PHP Fatal error:  Call to a member function where() on null in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 380
+[09-Jan-2020 10:59:10 Asia/Colombo] PHP Fatal error:  Call to a member function where() on null in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 380
+[09-Jan-2020 10:59:58 Asia/Colombo] PHP Fatal error:  Call to a member function where() on null in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 380
+[09-Jan-2020 11:32:44 Asia/Colombo] PHP Fatal error:  Call to a member function where() on null in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:33:35 Asia/Colombo] PHP Fatal error:  Call to a member function where() on null in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:36:04 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:36:42 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:37:44 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:39:14 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[09-Jan-2020 11:58:00 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 377
+[09-Jan-2020 11:59:51 Asia/Colombo] PHP Fatal error:  Call to undefined method Free_Ship_model::where() in /home/a6qll6aoc2gz/sample.itmartx.net/aimexpress.lk/application/controllers/Cart.php on line 378
+[21-May-2020 03:45:03 Asia/Colombo] PHP Fatal error:  Call to undefined function add_to_wish_list() in /home/a6qll6aoc2gz/sample.itmartx.net/anyproducts.lk/application/views/index.php on line 180
+[21-May-2020 03:49:23 Asia/Colombo] PHP Fatal error:  Call to undefined function add_to_wish_list() in /home/a6qll6aoc2gz/sample.itmartx.net/anyproducts.lk/application/views/index.php on line 180
+[17-May-2021 08:18:30 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:44 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:48 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:49 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:49 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:49 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:49 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:50 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:51 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:53 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:18:55 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 80
+[17-May-2021 08:19:11 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
+[17-May-2021 08:19:13 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
+[17-May-2021 08:19:14 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
+[17-May-2021 08:19:44 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
+[17-May-2021 08:19:52 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
+[17-May-2021 08:19:55 UTC] PHP Fatal error:  Cannot redeclare Home::products() in /home/acinw4o9my3x/public_html/remsolar.lk/site/application/controllers/Home.php on line 74
